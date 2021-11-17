@@ -6,5 +6,4 @@
 - 🌱 I’m currently learning Secure Multi-Party Computation (MPC), Homomorphic Encryption (HE);
 - 👯 I’m looking to collaborate on PPML;
 - 🤔 I’m looking for help with MPC and HE;
-- 📫 How to reach me: 19950512dy@gmail.com;
 
